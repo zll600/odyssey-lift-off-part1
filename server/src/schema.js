@@ -27,3 +27,5 @@ const typeDefs = gql`
     tracksForHome: [Track!]!
   }
 `;
+
+module.exports = typeDefs;
